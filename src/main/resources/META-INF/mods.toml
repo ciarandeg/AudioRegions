@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/ciarandeg/AudioRegions/issues"
+
+[[mods]]
+modId="audioregions"
+version="${file.jarVersion}"
+displayName="Audio Regions"
+displayURL="https://github.com/ciarandeg/AudioRegions"
+credits="I give thanks to my prospective future employers. You guys are great, huge fan."
+authors="Ciaran De Groot"
+description='''
+This is an audio mod created by Ciaran De Groot for Crypts & Creepers.
+It blocks all of Minecraft's music, and replaces it with a customizable region-based soundtrack.
+'''
+
+[[dependencies.examplemod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[35,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,1.17)"
+    ordering="NONE"
+    side="BOTH"
