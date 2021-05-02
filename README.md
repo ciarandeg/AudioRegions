@@ -4,7 +4,7 @@ It blocks all of Minecraft's vanilla music, and replaces it with a customizable 
 
 **NOTE:** You probably shouldn't actually use this mod; it's fairly fully-featured, but it's a prototype with
 several major bugs that will not be fixed. I'm currently working on the production version, SoundBounds,
-which will be stable and built with Kotlin+Architectury rather than Java+Forge
+which will be stable and built with Kotlin+Architectury rather than Java+Forge.
 
 ## Features
 - Smooth, customizable-length fades between tracks
