@@ -28,7 +28,7 @@ Since Minecraft and AudioRegions both use LWJGL+OpenAL for their audio engines, 
 are minimized.
 
 ## Setup
-I'll fix this soon. Your sounds should be contained in a resource pack, at path `assets/cnc/sounds/music/sound.ogg`.
+Your sounds should be contained in a resource pack, at path `assets/cnc/sounds/music/sound.ogg`.
 You do not need a `sounds.json` file, as AudioRegions doesn't rely on Minecraft's `ResourceLocation` objects for
 music playback. Instead, song metadata is stored in `songs.jon` on the dedicated server.
 
