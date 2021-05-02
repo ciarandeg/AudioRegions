@@ -92,5 +92,5 @@ There should be no overlap between any of the regions in the `audio_regions.json
 regions overlap, so don't do it -- the behaviour is undefined. Preferably stick to discrete, contiguous regions.
 
 ## Credits
-Wand sprite by [GrandLibra](https://twitter.com/Grand_Libra/)! Special thanks also to Layl, Denim, and Xenflux of the C&C team
+Wand sprite by [GrandLibra](https://twitter.com/Grand_Libra/)! Special thanks to Layl, Denim, and Xenflux of the C&C team
 for all their programming insights.
