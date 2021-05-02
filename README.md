@@ -90,17 +90,3 @@ that axis be unbounded (as in the third example above).
 ## Another note, this time about the config files
 There should be no overlap between any of the regions in the `audio_regions.json` file. I do not know what happens when
 regions overlap, so don't do it -- the behaviour is undefined. Preferably stick to discrete, contiguous regions.
-
-## Todos/planned features
-### Before initial release
-- Subregions (either through hierarchy/composite or through a priority system)
-- An API for use with tools like CryptMaster
-#### Bugfixes
-- Generate blank config on unconfigured servers
-- Fix single-player to multiplayer bug
-- Don't spend time fading out from an idling playlist
-### After initial release
-- Linear/adaptive song mode for dungeons
-- Multi-world support
-- Improve region search algorithm
-- A validator, to prevent overlaps/undefined behaviour
